@@ -16,3 +16,4 @@ local.properties
 watch.js
 node_modules
 .vscode
+.gradlew.bat
