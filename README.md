@@ -6,7 +6,7 @@ Projeto para a disciplina de Desenvolvimento de Software para Dispositivos Móve
 
 ## Equipe
 
-- [@saulo-araujo](https://github.com/teste)
+- [@saulo-araujo](https://github.com/saulocastelob)
 
 ## Requisitos
 
