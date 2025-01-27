@@ -1,15 +1,11 @@
 {
-  "name": "esqueletovamosrachar-master",
+  "name": "vamos-rachar",
   "version": "1.0.0",
-  "main": "watch.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "description": "",
+  "scripts": {
+    "watch": "node watch.js"
+  },
   "dependencies": {
-    "chokidar": "^4.0.1"
+    "chokidar": "^3.6.0"
   }
 }
